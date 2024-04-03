@@ -1,0 +1,14 @@
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\bin\Debug\net6.0\ClassLibrary.runtimeconfig.json
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Tanar\source\repos\HatosLotto\ClassLibrary\obj\Debug\net6.0\ClassLibrary.genruntimeconfig.cache
